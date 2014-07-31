@@ -7,8 +7,7 @@ This library is fully compatible with the standard EEPROM library delivered with
 
 Following functions are added:
 
-void EEPROM.read(address, array *, count);
-void EEPROM.write(address, array *, count);
+void EEPROM.read(address, array *, count);<br>void EEPROM.write(address, array *, count);
 
 New functions read and write a block of EEPROM data starting on given address.
 
