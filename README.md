@@ -3,7 +3,7 @@ EEPROM2
 
 Extended Arduino EEPROM library with array functions
 
-This library is fully compatible with the standard EEPROM library delivered with Arduino. Just replace #include <EEPROM.h> with #include <EEPROM2.h>
+This library is fully compatible with the standard EEPROM library delivered with Arduino. Just replace #include &lt;EEPROM.h&gt; with #include &lt;EEPROM2.h&gt;
 
 Following functions are added:
 
