@@ -11,4 +11,4 @@ void EEPROM.read(address, array *, count);<br>void EEPROM.write(address, array *
 
 New functions read and write a block of EEPROM data starting on given address.
 
-Please note that no address check is performed!
+Please note that no address or pointer check is performed!
